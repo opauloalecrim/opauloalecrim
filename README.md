@@ -2,7 +2,7 @@
 
 ### Full Stack Developer in progress · AI · Automation · Systems · Growth
 
-I build digital solutions that connect technology, business and growth.
+I build digital solutions that connect technology, business, marketing and growth.
 
 I'm developing my skills in full-stack development, artificial intelligence and automation, with a strong interest in building technology-driven solutions for real business problems.
 
@@ -14,7 +14,8 @@ I'm developing my skills in full-stack development, artificial intelligence and 
 - AI & Automation
 - Systems & CRM
 - Web Development
-- Growth & Digital Business
+- Growth & Digital Marketing
+- Business & Commercial Strategy
 
 ## Currently Learning
 
@@ -43,9 +44,9 @@ Google Apps Script · Google Sheets · CRM · Process Automation
 
 AI Tools · AI Agents · AI Automation
 
-**Business**
+**Business & Growth**
 
-Growth · Digital Marketing · Commercial Strategy · Process Design
+Growth · Digital Marketing · Commercial Strategy · Lead Generation · Conversion · Process Design
 
 ---
 
